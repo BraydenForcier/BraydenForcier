@@ -17,16 +17,12 @@
 
 **Business Skills:** &emsp; ![KPI Analysis](https://img.shields.io/badge/KPI_Analysis-6EB3CC?style=for-the-badge&logo=tableau&logoColor=red) ![Data Storytelling](https://img.shields.io/badge/Data_Storytelling-FCCF53?style=for-the-badge&logo=tableau&logoColor=red) ![Market Research](https://img.shields.io/badge/Market_Research-D19CFF?style=for-the-badge&logo=tableau&logoColor=red)  ![Customer Segmentation](https://img.shields.io/badge/Customer_Segmentation-5BB84D?style=for-the-badge&logo=tableau&logoColor=red) 
 
-### 📁 **Projects:**
+# 📁 **Projects:**
 
 Explore my portfolio of Data Analysis & Consulting business projects:
 
 [Portfolio](https://github.com/BraydenForcier/Portfolio)
-
-
 &nbsp;
-
-
 ## Featured Projects 💻
 
 ### [Mazda J-Core](project_1_link)
