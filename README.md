@@ -19,9 +19,7 @@
 
 # 📁 **Projects:**
 
-Explore my portfolio of Data Analysis & Consulting business projects:
-
-[Portfolio](https://github.com/BraydenForcier/Portfolio)
+Explore my complete portfolio of Data Analysis & Consulting business projects **[here](https://github.com/BraydenForcier/Portfolio)**
 &nbsp;
 ## Featured Projects 💻
 
