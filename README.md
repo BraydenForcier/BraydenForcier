@@ -26,8 +26,6 @@ Explore my portfolio of Data Analysis & Consulting business projects:
 
 &nbsp;
 
-**Contact Me:**&emsp;[LinkedIn](https://www.linkedin.com/in/brayden-forcier/) &emsp; (716) 982-4817
-
 
 ## Featured Projects 💻
 
