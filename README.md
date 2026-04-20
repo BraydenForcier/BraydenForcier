@@ -1,4 +1,4 @@
-<img width="3400" height="920" alt="github-header-banner" src="https://github.com/user-attachments/assets/bf7a3b30-18ee-4ddc-8866-0db65d7a8bfd" />
+<img width="1834" height="938" alt="Make your README" src="https://github.com/user-attachments/assets/9b1bc8fe-f3a4-40e3-97aa-3fb68872305f" />
 
 # 👤 Profile
 ### Brayden Forcier
